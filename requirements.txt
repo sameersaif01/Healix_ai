@@ -14,5 +14,8 @@ langchain-huggingface
 
 chromadb
 sentence-transformers
-pypdf
 huggingface-hub
+pypdf
+
+loguru
+torchvision
