@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+groq
+requests
+folium
+streamlit-folium
+streamlit-js-eval
+
+# --- RAG pipeline (inferred from src/retrieval/rag_chain.py + sidebar text "Llama 3 + ChromaDB") ---
+# NOTE: I can't see rag_chain.py, so verify/trim these against its actual imports.
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
